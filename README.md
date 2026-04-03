@@ -9,7 +9,7 @@ Currently, I'm studying at Universidad ORT, pursuing a degree in analyst program
 I have expertise in developing web applications, building responsive UIs, and creating engaging user experiences. I'm also skilled in working with modern web frameworks like React and Next.js. In addition, I'm always eager to learn new tools and technologies that can help me improve my work.
 
 🚀 **Notable Projects**
-- Kwang Gae App: An application for taekwondo instructors and students that allows students to register, track points, and exchange virtual figurines. The app can also be used for arbitration and quiz contests.
+- Taekwondo App: An application for taekwondo instructors and students that allows students to register, track points, and exchange virtual figurines. The app can also be used for arbitration and quiz contests.
 - Empathy Chatbot Juan: A chatbot that helps children practice empathy.
 
 🌐 **Industries & Interests**
